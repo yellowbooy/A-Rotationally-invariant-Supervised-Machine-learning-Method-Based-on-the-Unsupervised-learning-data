@@ -1,0 +1,314 @@
+Conda########################################################
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+_openmp_mutex             5.1                       1_gnu    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+absl-py                   0.15.0             pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+aiohttp                   3.8.1            py37h7f8727e_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+aiosignal                 1.2.0              pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+async-timeout             4.0.1              pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+asynctest                 0.13.0                     py_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+attrs                     21.4.0             pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+blas                      1.0                         mkl    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+blinker                   1.4              py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+brotli                    1.0.9                h5eee18b_7    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+brotli-bin                1.0.9                h5eee18b_7    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+brotlipy                  0.7.0           py37h27cfd23_1003    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+bzip2                     1.0.8                h7b6447c_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+c-ares                    1.18.1               h7f8727e_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ca-certificates           2023.01.10           h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+cachetools                4.2.2              pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+cairo                     1.16.0               h19f5f5c_2    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+cellpose                  2.1.1                    pypi_0    pypi
+certifi                   2022.12.7        py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+cffi                      1.15.1           py37h74dc2b5_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+charset-normalizer        2.0.4              pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+click                     8.0.4            py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+cloudpickle               2.2.0              pyhd8ed1ab_0    conda-forge
+cryptography              37.0.1           py37h9ce1e76_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+cudatoolkit               10.2.89              hfd86e86_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+cudnn                     7.6.5.32             h01f27c4_1    conda-forge
+cycler                    0.11.0             pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+cytoolz                   0.11.2           py37h540881e_2    conda-forge
+dask-core                 2022.2.0           pyhd8ed1ab_0    conda-forge
+dataclasses               0.8                pyh6d0b6a4_7    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+dbus                      1.13.18              hb2f20db_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+decorator                 5.1.1              pyhd8ed1ab_0    conda-forge
+edt                       2.3.0                    pypi_0    pypi
+et_xmlfile                1.1.0            py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+expat                     2.4.4                h295c915_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+fastremap                 1.13.3                   pypi_0    pypi
+ffmpeg                    4.0                  hcdf2ecd_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+fontconfig                2.13.1               h6c09931_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+fonttools                 4.25.0             pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+freeglut                  3.0.0                hf484d3e_5    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+freetype                  2.11.0               h70c0345_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+frozenlist                1.2.0            py37h7f8727e_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+fsspec                    2022.8.2           pyhd8ed1ab_0    conda-forge
+future                    0.18.2           py37h89c1867_5    http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+gdal                      1.9.2                         0    http://mirrors.ustc.edu.cn/anaconda/cloud/bioconda
+giflib                    5.2.1                h7b6447c_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+glib                      2.69.1               h4ff587b_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+google-auth               2.6.0              pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+google-auth-oauthlib      0.4.4              pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+graphite2                 1.3.14               h295c915_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+grpcio                    1.42.0           py37hce63b2e_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+gst-plugins-base          1.14.0               h8213a91_2    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+gstreamer                 1.14.0               h28cd5cc_2    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+harfbuzz                  1.8.8                hffaf4a1_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+hdf5                      1.10.2               hba1933b_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+hydra                     2.5              py37h516909a_0    conda-forge
+icu                       58.2                 he6710b0_3    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+idna                      3.3                pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+imagecodecs               2021.11.20               pypi_0    pypi
+imagecodecs-lite          2019.12.3        py37hda87dfa_5    conda-forge
+imageio                   2.22.0             pyhfa7a67d_0    conda-forge
+importlib-metadata        4.11.3           py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+importlib_metadata        4.11.3               hd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+intel-openmp              2021.4.0          h06a4308_3561    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+jasper                    2.0.14               hd8c5072_2    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+jieba                     0.42.1                   pypi_0    pypi
+joblib                    1.1.0              pyhd3eb1b0_0    anaconda
+jpeg                      9b                   h024ee3a_2    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+kenlm                     0.0.0                    pypi_0    pypi
+kiwisolver                1.4.2            py37h295c915_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+lcms2                     2.12                 h3be6417_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ld_impl_linux-64          2.38                 h1181459_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libbrotlicommon           1.0.9                h5eee18b_7    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libbrotlidec              1.0.9                h5eee18b_7    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libbrotlienc              1.0.9                h5eee18b_7    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libffi                    3.3                  he6710b0_2    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libgcc                    7.2.0                h69d50b8_2    conda-forge
+libgcc-ng                 11.2.0               h1234567_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libgfortran-ng            7.5.0               ha8ba4b0_17    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libgfortran4              7.5.0               ha8ba4b0_17    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libglu                    9.0.0                hf484d3e_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libgomp                   11.2.0               h1234567_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libllvm11                 11.1.0               h9e868ea_6    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libopencv                 3.4.2                hb342d67_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libopus                   1.3.1                h7b6447c_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libpng                    1.6.37               hbc83047_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libprotobuf               3.20.1               h4ff587b_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libstdcxx-ng              11.2.0               h1234567_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libtiff                   4.1.0                h2733197_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libuuid                   1.0.3                h7f8727e_2    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libuv                     1.40.0               h7b6447c_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libvpx                    1.7.0                h439df22_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libwebp                   1.2.0                h89dd481_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libxcb                    1.15                 h7f8727e_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+libxml2                   2.9.14               h74e7548_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+llvmlite                  0.39.1                   pypi_0    pypi
+locket                    1.0.0              pyhd8ed1ab_0    conda-forge
+loguru                    0.6.0                    pypi_0    pypi
+lz4-c                     1.9.3                h295c915_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+mahotas                   1.4.13                   pypi_0    pypi
+markdown                  3.3.4            py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+matplotlib                3.4.3            py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+matplotlib-base           3.4.3            py37hbbc1b5f_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+mgen                      1.2.0                    pypi_0    pypi
+mkl                       2021.4.0           h06a4308_640    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+mkl-service               2.4.0            py37h7f8727e_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+mkl_fft                   1.3.1            py37hd3c417c_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+mkl_random                1.2.2            py37h51133e4_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+multidict                 5.2.0            py37h7f8727e_2    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+munkres                   1.1.4                      py_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+natsort                   8.2.0                    pypi_0    pypi
+ncolor                    1.1.2                    pypi_0    pypi
+ncurses                   6.3                  h5eee18b_3    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+networkx                  2.5                        py_0    conda-forge
+ninja                     1.10.2               h06a4308_5    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ninja-base                1.10.2               hd09550d_5    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+numba                     0.56.4                   pypi_0    pypi
+numpy                     1.21.5           py37h6c91a56_3    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+numpy-base                1.21.5           py37ha15fc14_3    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+oauthlib                  3.2.0              pyhd3eb1b0_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+omnipose                  0.2.1                    pypi_0    pypi
+opencv                    3.4.2            py37h6fd60c2_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+opencv-python             4.6.0.66                 pypi_0    pypi
+opencv-python-headless    4.6.0.66                 pypi_0    pypi
+openpyxl                  3.0.10           py37h5eee18b_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+openssl                   1.1.1t               h7f8727e_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+packaging                 21.3               pyhd8ed1ab_0    conda-forge
+pandas                    1.3.5                    pypi_0    pypi
+partd                     1.3.0              pyhd8ed1ab_0    conda-forge
+pbr                       5.11.0                   pypi_0    pypi
+pcre                      8.45                 h295c915_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pillow                    9.2.0            py37hace64e9_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pip                       22.1.2           py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pixman                    0.40.0               h7f8727e_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+protobuf                  3.20.1           py37h295c915_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+py-opencv                 3.4.2            py37hb342d67_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pyasn1                    0.4.8              pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pyasn1-modules            0.2.8                      py_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pycorrector               0.4.6                    pypi_0    pypi
+pycparser                 2.21               pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pyjwt                     2.4.0            py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pyopenssl                 22.0.0             pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pyparsing                 3.0.4              pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pypinyin                  0.47.0                   pypi_0    pypi
+pyqt                      5.9.2            py37h05f1152_2    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+pysocks                   1.7.1                    py37_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+python                    3.7.13               h12debd9_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+python-dateutil           2.8.2              pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+python_abi                3.7                     2_cp37m    conda-forge
+pytorch                   1.7.1           py3.7_cuda10.2.89_cudnn7.6.5_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
+pytorch-pretrained-vit    0.0.7                    pypi_0    pypi
+pytz                      2022.7.1                 pypi_0    pypi
+pywavelets                1.3.0            py37hda87dfa_1    conda-forge
+pyyaml                    6.0              py37h540881e_4    conda-forge
+qt                        5.9.7                h5867ecd_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+readline                  8.1.2                h7f8727e_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+requests                  2.28.1           py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+requests-oauthlib         1.3.0                      py_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+rsa                       4.7.2              pyhd3eb1b0_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+scikit-image              0.19.2           py37he8f5f7f_0    conda-forge
+scikit-learn              1.0.2            py37h51133e4_1    anaconda
+scipy                     1.7.3            py37hc147768_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+setuptools                61.2.0           py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+sip                       4.19.8           py37hf484d3e_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+six                       1.16.0             pyhd3eb1b0_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+sklearn                   0.0.post1                pypi_0    pypi
+sqlite                    3.39.2               h5082296_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+tbb                       2021.6.0             hdb19cb5_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+tensorboard               2.7.0              pyhd8ed1ab_0    conda-forge
+tensorboard-data-server   0.6.0            py37hca6d32c_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+tensorboard-plugin-wit    1.8.1            py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+tensorboardx              2.5.1              pyhd8ed1ab_0    https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+threadpoolctl             2.2.0              pyh0d69192_0    anaconda
+tifffile                  2020.6.3                   py_0    conda-forge
+tk                        8.6.12               h1ccaba5_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+toolz                     0.12.0             pyhd8ed1ab_0    conda-forge
+torchaudio                0.7.2                      py37    http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
+torchsummary              1.5.1                    pypi_0    pypi
+torchvision               0.8.2                py37_cu102    http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
+tornado                   6.1              py37h27cfd23_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+tqdm                      4.64.0           py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+typing-extensions         4.3.0            py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+typing_extensions         4.3.0            py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+urllib3                   1.26.11          py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+werkzeug                  2.0.3              pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+wheel                     0.37.1             pyhd3eb1b0_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+xz                        5.2.5                h7f8727e_1    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+yaml                      0.2.5                h7f98852_2    conda-forge
+yarl                      1.6.3            py37h27cfd23_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+zipp                      3.8.0            py37h06a4308_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+zlib                      1.2.12               h7f8727e_2    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+zstd                      1.4.9                haebb681_0    http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+
+
+pip#############################################################################
+Package                 Version
+----------------------- ---------------
+absl-py                 0.15.0
+aiohttp                 3.8.1
+aiosignal               1.2.0
+async-timeout           4.0.1
+asynctest               0.13.0
+attrs                   21.4.0
+blinker                 1.4
+brotlipy                0.7.0
+cachetools              4.2.2
+cellpose                2.1.1
+certifi                 2022.12.7
+cffi                    1.15.1
+charset-normalizer      2.0.4
+click                   8.0.4
+cloudpickle             2.2.0
+cryptography            37.0.1
+cycler                  0.11.0
+cytoolz                 0.11.2
+dask                    2022.2.0
+decorator               5.1.1
+edt                     2.3.0
+et-xmlfile              1.1.0
+fastremap               1.13.3
+fonttools               4.25.0
+frozenlist              1.2.0
+fsspec                  2022.8.2
+future                  0.18.2
+google-auth             2.6.0
+google-auth-oauthlib    0.4.4
+grpcio                  1.42.0
+Hydra                   2.5
+idna                    3.3
+imagecodecs             2021.11.20
+imagecodecs-lite        2019.12.3
+imageio                 2.22.0
+importlib-metadata      4.11.3
+jieba                   0.42.1
+joblib                  1.1.0
+kenlm                   0.0.0
+kiwisolver              1.4.2
+llvmlite                0.39.1
+locket                  1.0.0
+loguru                  0.6.0
+mahotas                 1.4.13
+Markdown                3.3.4
+matplotlib              3.4.3
+mgen                    1.2.0
+mkl-fft                 1.3.1
+mkl-random              1.2.2
+mkl-service             2.4.0
+multidict               5.2.0
+munkres                 1.1.4
+natsort                 8.2.0
+ncolor                  1.1.2
+networkx                2.5
+numba                   0.56.4
+numpy                   1.21.5
+oauthlib                3.2.0
+omnipose                0.2.1
+opencv-python           4.6.0.66
+opencv-python-headless  4.6.0.66
+openpyxl                3.0.10
+packaging               21.3
+pandas                  1.3.5
+partd                   1.3.0
+pbr                     5.11.0
+Pillow                  9.2.0
+pip                     22.1.2
+protobuf                3.20.1
+pyasn1                  0.4.8
+pyasn1-modules          0.2.8
+pycorrector             0.4.6
+pycparser               2.21
+PyJWT                   2.4.0
+pyOpenSSL               22.0.0
+pyparsing               3.0.4
+pypinyin                0.47.0
+PySocks                 1.7.1
+python-dateutil         2.8.2
+pytorch-pretrained-vit  0.0.7
+pytz                    2022.7.1
+PyWavelets              1.3.0
+PyYAML                  6.0
+requests                2.28.1
+requests-oauthlib       1.3.0
+rsa                     4.7.2
+scikit-image            0.19.2
+scikit-learn            1.0.2
+scipy                   1.7.3
+setuptools              61.2.0
+six                     1.16.0
+sklearn                 0.0.post1
+tensorboard             2.7.0
+tensorboard-data-server 0.6.0
+tensorboard-plugin-wit  1.8.1
+tensorboardX            2.5.1
+threadpoolctl           2.2.0
+tifffile                2020.6.3
+toolz                   0.12.0
+torch                   1.7.1
+torchaudio              0.7.0a0+a853dff
+torchsummary            1.5.1
+torchvision             0.8.2
+tornado                 6.1
+tqdm                    4.64.0
+typing_extensions       4.3.0
+urllib3                 1.26.11
+Werkzeug                2.0.3
+wheel                   0.37.1
+yarl                    1.6.3
+zipp                    3.8.0
+
+
+
