@@ -1,0 +1,1 @@
+# A-Rotationally-invariant-Supervised-Machine-learning-Method-Based-on-the-Unsupervised-learning-data
