@@ -1,0 +1,5 @@
+APCT_VS_raw_pix_difference：自适应极坐标方法和原始图与各自旋转后图片的像素差均值对比
+cae_VS_nocae_pix：cae降噪后与未降噪图片的像素值分布对比
+pa_angles：数据集中偏转角的分布统计
+step_acc：对比各个数据增强（随机转）方法与自适应极坐标的每100步测试集准确率对比
+图片.pptx：reply所使用的图片
